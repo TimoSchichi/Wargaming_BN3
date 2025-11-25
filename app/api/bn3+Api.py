@@ -1,5 +1,6 @@
 import os
 import tempfile
+import pathlib
 
 import whisper
 from fastapi import FastAPI, UploadFile, File, HTTPException
@@ -10,7 +11,7 @@ app = FastAPI(title="Whisper Transcription API")
 # CORS Middleware für React Frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://localhost:5173"],  # React Dev Server
+    allow_origins=["*"],  # React Dev Server
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -29,25 +30,28 @@ async def root():
 
 @app.post("/transcribe")
 async def transcribe_audio(file: UploadFile = File(...)):
-    """
-    Empfängt eine MP3-Datei und gibt die Transkription zurück
-    """
-    # Überprüfen, ob es eine MP3-Datei ist
-    if not file.filename.endswith('.mp3'):
+    if not file.filename.endswith(".mp3"):
         raise HTTPException(status_code=400, detail="Nur MP3-Dateien werden unterstützt")
 
     try:
-        # Temporäre Datei erstellen
-        with tempfile.NamedTemporaryFile(delete=False, suffix='.mp3') as tmp_file:
-            # Datei speichern
-            content = await file.read()
+        # Datei einlesen
+        content = await file.read()
+        if len(content) == 0:
+            raise HTTPException(400, "Die empfangene Datei ist leer")
+
+        # Tempdatei speichern
+        with tempfile.NamedTemporaryFile(delete=False, suffix=".mp3") as tmp_file:
             tmp_file.write(content)
-            tmp_file_path = tmp_file.name
+            tmp_file_path = pathlib.Path(tmp_file.name).as_posix()
+        tmp_file.close()
 
-        # Whisper Transkription durchführen
-        result = model.transcribe(tmp_file_path, language="de")  # "de" für Deutsch, None für automatisch
+        print("Benutze Datei:", tmp_file_path)
 
-        # Temporäre Datei löschen
+        # Whisper
+        result = model.transcribe(tmp_file_path, language="de")
+
+        print("tot")
+        # Aufräumen
         os.unlink(tmp_file_path)
 
         return {
@@ -57,11 +61,9 @@ async def transcribe_audio(file: UploadFile = File(...)):
         }
 
     except Exception as e:
-        # Temporäre Datei aufräumen, falls vorhanden
         if 'tmp_file_path' in locals() and os.path.exists(tmp_file_path):
             os.unlink(tmp_file_path)
-
-        raise HTTPException(status_code=500, detail=f"Fehler bei der Transkription: {str(e)}")
+        raise HTTPException(500, f"Fehler bei der Transkription: {str(e)}")
 
 
 @app.get("/health")

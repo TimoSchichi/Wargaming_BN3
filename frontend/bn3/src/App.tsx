@@ -97,7 +97,7 @@ export default function WhisperTranscriptionApp() {
               Whisper AI Transkription
             </h1>
             <p className="text-gray-600">
-              Lade deine MP3-Datei hoch und erhalte eine Texttranskription
+              Lade deine MP3-Datei hoch und erhalte eine Texttranskription.
             </p>
           </div>
 
@@ -121,7 +121,7 @@ export default function WhisperTranscriptionApp() {
                 <p className="text-sm text-gray-500 mb-4">oder</p>
                 <label className="cursor-pointer">
                   <span className="bg-indigo-600 text-white px-6 py-3 rounded-lg hover:bg-indigo-700 transition-colors inline-block">
-                    Datei auswählen
+                    Datei vom Gerät hochladen
                   </span>
                   <input
                     type="file"
@@ -157,7 +157,7 @@ export default function WhisperTranscriptionApp() {
                 {loading ? (
                   <>
                     <Loader2 className="animate-spin h-5 w-5" />
-                    Wird verarbeitet...
+                    Transkribiere...
                   </>
                 ) : (
                   'Transkribieren'

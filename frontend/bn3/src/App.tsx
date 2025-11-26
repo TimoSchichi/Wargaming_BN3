@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import {CheckCircle, FileAudio, Loader2, Upload, XCircle} from 'lucide-react';
-import './index.css'
 
 export default function WhisperTranscriptionApp() {
   const [file, setFile] = useState  < File | null > (null);

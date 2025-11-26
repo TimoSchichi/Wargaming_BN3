@@ -20,7 +20,7 @@ app.add_middleware(
 # Whisper Modell laden (beim Start der Anwendung)
 # Optionen: "tiny", "base", "small", "medium", "large"
 # "base" ist ein guter Kompromiss zwischen Geschwindigkeit und Genauigkeit
-model = whisper.load_model("tiny")
+model = whisper.load_model("large")
 
 
 @app.get("/")
@@ -45,12 +45,9 @@ async def transcribe_audio(file: UploadFile = File(...)):
             tmp_file_path = pathlib.Path(tmp_file.name).as_posix()
         tmp_file.close()
 
-        print("Benutze Datei:", tmp_file_path)
-
         # Whisper
         result = model.transcribe(tmp_file_path, language="de")
 
-        print("tot")
         # Aufräumen
         os.unlink(tmp_file_path)
 

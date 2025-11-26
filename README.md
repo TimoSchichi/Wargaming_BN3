@@ -15,7 +15,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
 ### 3. Installation prüfen
 ```
 node -v
-nmp -v 
+npm -v 
 ```
 
 ### 2. Installation von tailwindcss
@@ -25,12 +25,14 @@ npm install -D tailwindcss postcss autoprefixer
 Wichtig: Dieser Befehl muss vor dem ersten Start der React Anwendung und vor der Installation der Node Module ausgeführt werden!
 
 ### 3. Installation der Node Modules
-
+Beim Change Directory bitte den den Pfad zum Bn3 Ordner des Projekts nehmen!
 ```
+cd ../frontend/bn3
 npm install
 ```
 
 ### 4. Start der React Anwendung
+Beim Change Directory bitte den den Pfad zum Bn3 Ordner des Projekts nehmen!
 ```
 cd path/to/root/bn3
 npm start

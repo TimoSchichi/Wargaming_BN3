@@ -44,10 +44,8 @@ async def transcribe_audio(file: UploadFile = File(...)):
             tmp_file.write(content)
             tmp_file_path = pathlib.Path(tmp_file.name).as_posix()
         tmp_file.close()
-
         # Whisper
         result = model.transcribe(tmp_file_path, language="de")
-
         # Aufräumen
         os.unlink(tmp_file_path)
 

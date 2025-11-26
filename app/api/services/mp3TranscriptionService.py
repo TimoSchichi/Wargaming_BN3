@@ -9,10 +9,11 @@ class Mp3TranscriptionService:
     MODEL = "openai/gpt-4o-audio-preview" # Audio-fähiges Modell auf OpenRouter
 
     def transcript_audio_with_speakers(self, audio_file_path):
+        print("pfad aus funktion:" + audio_file_path)
         #Get Audio as Base64
         with open(audio_file_path, "rb") as f:
             audio_base64 = base64.b64encode(f.read()).decode("utf-8")
-
+        print("Pfad nach base64: " +audio_base64)
         #Create Request Payload
         payload = {
             "model": self.MODEL,
@@ -45,7 +46,7 @@ class Mp3TranscriptionService:
         }
 
         headers = {
-            "Authorization": f"Bearer {self.API_KEY}",
+            "Authorization": "Bearer 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",
             "Content-Type": "application/json",
         }
         print("test")

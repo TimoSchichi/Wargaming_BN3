@@ -18,12 +18,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Whisper Modell laden (beim Start der Anwendung)
-# Optionen: "tiny", "base", "small", "medium", "large"
-# "base" ist ein guter Kompromiss zwischen Geschwindigkeit und Genauigkeit
-model = whisper.load_model("large")
-
-
 @app.get("/")
 async def root():
     return {"message": "Whisper Transcription API ist aktiv"}
@@ -33,6 +27,7 @@ async def root():
 async def transcribe_audio(file: UploadFile = File(...)):
     if not file.filename.endswith(".mp3"):
         raise HTTPException(status_code=400, detail="Nur MP3-Dateien werden unterstützt")
+    AUDIO_PATH = "D:\\Repos\\Hackathon_2025\\BN3\\hkt_wargaming_audio.mp3"
 
     try:
         # Datei einlesen

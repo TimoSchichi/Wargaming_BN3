@@ -4,16 +4,12 @@ import requests
 
 
 class Mp3TranscriptionService:
-
-    API_KEY = "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"  # z.B. "sk-or-..."
     MODEL = "openai/gpt-4o-audio-preview" # Audio-fähiges Modell auf OpenRouter
 
     def transcript_audio_with_speakers(self, audio_file_path):
-        print("pfad aus funktion:" + audio_file_path)
         #Get Audio as Base64
         with open(audio_file_path, "rb") as f:
             audio_base64 = base64.b64encode(f.read()).decode("utf-8")
-        print("Pfad nach base64: " +audio_base64)
         #Create Request Payload
         payload = {
             "model": self.MODEL,
@@ -46,10 +42,10 @@ class Mp3TranscriptionService:
         }
 
         headers = {
-            "Authorization": "Bearer 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",
+            "Authorization": "Bearer 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",
             "Content-Type": "application/json",
         }
-        print("test")
+
         #Send Request to OpenRouter
         try:
             resp = requests.post(
@@ -57,15 +53,12 @@ class Mp3TranscriptionService:
             headers=headers,
             data=json.dumps(payload),
             )
-            print(resp.content)
             resp.raise_for_status()
-            print("test2")
             data = resp.json()
-            print("test3")
             # Get Text from Response
             text = data["choices"][0]["message"]["content"]
-
             return text
+
         except Exception as e:
             print(str(e))
-            return "kaputt"
+            return "Transcription über Open Router fehlgeschlagen!"

@@ -1,6 +1,7 @@
 import os
 import tempfile
 import pathlib
+import json
 
 import whisper
 from fastapi import FastAPI, UploadFile, File, HTTPException
@@ -27,7 +28,6 @@ async def root():
 async def transcribe_audio(file: UploadFile = File(...)):
     if not file.filename.endswith(".mp3"):
         raise HTTPException(status_code=400, detail="Nur MP3-Dateien werden unterstützt")
-    AUDIO_PATH = "D:\\Repos\\Hackathon_2025\\BN3\\hkt_wargaming_audio.mp3"
 
     try:
         # Datei einlesen
@@ -43,15 +43,10 @@ async def transcribe_audio(file: UploadFile = File(...)):
         mp3_transcription_service = Mp3TranscriptionService()
         #Transcription über ChatGPT
         result = mp3_transcription_service.transcript_audio_with_speakers(tmp_file_path)
-        print(result)
         # Aufräumen
         os.unlink(tmp_file_path)
-
-        return {
-            "text": result["text"],
-            "language": result.get("language", "unknown"),
-            "filename": file.filename
-        }
+        to_return = json.dumps(result, ensure_ascii=False).encode("utf-8")
+        return to_return
 
     except Exception as e:
         if 'tmp_file_path' in locals() and os.path.exists(tmp_file_path):

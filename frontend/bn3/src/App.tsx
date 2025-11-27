@@ -71,10 +71,10 @@ export default function WhisperTranscriptionApp() {
       }
 
       const data = await response.json();
-      setTranscription(data.text || data.transcription || '');
+      setTranscription(data);
       setSuccess(true);
     } catch (e) {
-      setError(`Fehler beim Hochladen: ${(e as Error).message}`);
+      setError(`Fehler beim Transkribieren: ${(e as Error).message}`);
     } finally {
       setLoading(false);
     }
@@ -93,7 +93,7 @@ export default function WhisperTranscriptionApp() {
         <div className="bg-white rounded-2xl shadow-xl p-8">
           <div className="text-center mb-8">
             <h1 className="text-4xl font-bold text-gray-800 mb-2">
-              Whisper AI Transkription
+              Open AI Transkription
             </h1>
             <p className="text-gray-600">
               Lade deine MP3-Datei hoch und erhalte eine Texttranskription.

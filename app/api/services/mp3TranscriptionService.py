@@ -42,7 +42,7 @@ class Mp3TranscriptionService:
         }
 
         headers = {
-            "Authorization": "Bearer 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",
+            "Authorization": "Bearer <HIER KEY EINFÜGEN!>",
             "Content-Type": "application/json",
         }
 

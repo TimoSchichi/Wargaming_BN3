@@ -1,10 +1,12 @@
 import os
 import tempfile
 import pathlib
+import json
 
 import whisper
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from app.api.services.mp3TranscriptionService import Mp3TranscriptionService
 
 app = FastAPI(title="Whisper Transcription API")
 
@@ -16,12 +18,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
-# Whisper Modell laden (beim Start der Anwendung)
-# Optionen: "tiny", "base", "small", "medium", "large"
-# "base" ist ein guter Kompromiss zwischen Geschwindigkeit und Genauigkeit
-model = whisper.load_model("large")
-
 
 @app.get("/")
 async def root():
@@ -44,27 +40,18 @@ async def transcribe_audio(file: UploadFile = File(...)):
             tmp_file.write(content)
             tmp_file_path = pathlib.Path(tmp_file.name).as_posix()
         tmp_file.close()
-        # Whisper
-        result = model.transcribe(tmp_file_path, language="de")
+        mp3_transcription_service = Mp3TranscriptionService()
+        #Transcription über ChatGPT
+        result = mp3_transcription_service.transcript_audio_with_speakers(tmp_file_path)
         # Aufräumen
         os.unlink(tmp_file_path)
-
-        return {
-            "text": result["text"],
-            "language": result.get("language", "unknown"),
-            "filename": file.filename
-        }
+        to_return = json.dumps(result, ensure_ascii=False).encode("utf-8")
+        return to_return
 
     except Exception as e:
         if 'tmp_file_path' in locals() and os.path.exists(tmp_file_path):
             os.unlink(tmp_file_path)
         raise HTTPException(500, f"Fehler bei der Transkription: {str(e)}")
-
-
-@app.get("/health")
-async def health_check():
-    return {"status": "healthy", "model": "whisper-base"}
-
 
 if __name__ == "__main__":
     import uvicorn

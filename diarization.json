@@ -1,0 +1,2045 @@
+{
+  "audio_file": "hkt_wargaming_audio_16k.wav",
+  "created_at": "2025-11-27T12:43:03.606298Z",
+  "speakers": [
+    "SPEAKER_00",
+    "SPEAKER_01",
+    "SPEAKER_02"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "speaker": "SPEAKER_01",
+      "text": "Schön guten Morgen, Antonio, Clara. Heute ist Op4C geplant."
+    },
+    {
+      "start": 9.0,
+      "end": 16.0,
+      "speaker": "SPEAKER_01",
+      "text": "Hier führen wir einen Angriff gegen das Hackathon durch."
+    },
+    {
+      "start": 16.0,
+      "end": 22.0,
+      "speaker": "SPEAKER_01",
+      "text": "Wir haben zwei Teams, die Regel kennt ihr ja schon. Rot greift an, blau verteidigt."
+    },
+    {
+      "start": 22.0,
+      "end": 27.0,
+      "speaker": "SPEAKER_01",
+      "text": "Und Clara, willst du dich kurz vorstellen? Du bist ja Team Rot."
+    },
+    {
+      "start": 28.0,
+      "end": 36.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ganz genau. Mein Name ist Clara. Ich bin ein Gegner des Hackathons."
+    },
+    {
+      "start": 36.0,
+      "end": 42.0,
+      "speaker": "SPEAKER_02",
+      "text": "Und mein Ziel ist es, die Organisation des Hackathons soweit zu stören und zu sabotieren,"
+    },
+    {
+      "start": 42.0,
+      "end": 48.0,
+      "speaker": "SPEAKER_02",
+      "text": "dass er nicht stattfinden kann bzw. auch in einem sehr schlechten Ruf dasteht."
+    },
+    {
+      "start": 49.0,
+      "end": 52.0,
+      "speaker": "SPEAKER_01",
+      "text": "Freut mich, schön, dass du da bist. Antonio, willst du dich kurz vorstellen?"
+    },
+    {
+      "start": 52.0,
+      "end": 58.0,
+      "speaker": "SPEAKER_00",
+      "text": "Sehr gerne. Ich bin Antonio und ich werde versuchen, die Angriffe von Clara bestmöglich abzuwehren."
+    },
+    {
+      "start": 58.0,
+      "end": 66.0,
+      "speaker": "SPEAKER_00",
+      "text": "Mit aller Mühe. Perfekt. Antonio, du bist Team Blau. Ich bin der Moderator."
+    },
+    {
+      "start": 66.0,
+      "end": 70.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ich führe euch durch das Spiel. Wenn ihr Fragen habt zu regeln usw., bin ich da."
+    },
+    {
+      "start": 70.0,
+      "end": 75.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also wir spielen ja zwei Runden, jeweils zwei Phasen."
+    },
+    {
+      "start": 75.0,
+      "end": 82.0,
+      "speaker": "SPEAKER_01",
+      "text": "Und das beginnt mit einer Aufklärungsphase. Rot kurz würfeln darf, um zu sehen, ob die einen Vorteil haben."
+    },
+    {
+      "start": 82.0,
+      "end": 88.0,
+      "speaker": "SPEAKER_01",
+      "text": "Davor würfelt er aber blau, um zu sehen, ob die diesen Vorteil aufdecken, diesen Informationsvorteil."
+    },
+    {
+      "start": 88.0,
+      "end": 96.0,
+      "speaker": "SPEAKER_01",
+      "text": "Und der könnte den Angriff ein bisschen modifizieren. In der Angriffsphase sprechen wir über den spezifischen Angriff."
+    },
+    {
+      "start": 96.0,
+      "end": 101.0,
+      "speaker": "SPEAKER_01",
+      "text": "Clara definiert ein Ziel, das sie angreifen will und wie sie das angreift."
+    },
+    {
+      "start": 101.0,
+      "end": 108.0,
+      "speaker": "SPEAKER_01",
+      "text": "Und Antonio versucht dagegen zu halten. Dann haben wir vier Dimensionen entlang, welcher dieser Angriff bewertet wird."
+    },
+    {
+      "start": 108.0,
+      "end": 115.0,
+      "speaker": "SPEAKER_01",
+      "text": "Und das geht dann nach T-Shirt Größen. S bis XL. XL ist gut für Rot. XL ist schlecht für Rot."
+    },
+    {
+      "start": 115.0,
+      "end": 125.0,
+      "speaker": "SPEAKER_01",
+      "text": "Und S ist gut für Rot. Das heißt, die Argumente von Blau, wenn die überzeugender sind, bewegen die Gewichtung Richtung XL und andersrum Richtung S."
+    },
+    {
+      "start": 126.0,
+      "end": 139.0,
+      "speaker": "SPEAKER_01",
+      "text": "Und hinter jeder T-Shirt Größe ist auch ein Zahlenwert. Das heißt, bei S sind wir bei 1, bei M sind wir bei 2, bei L sind wir bei 3, bei XL bei 4."
+    },
+    {
+      "start": 139.0,
+      "end": 151.0,
+      "speaker": "SPEAKER_01",
+      "text": "In der Summe, wenn wir optimal für Rot argumentiert haben, dann muss man die Summe dieser Tabelle, also 4 mal 1, 4 mal S würfeln."
+    },
+    {
+      "start": 151.0,
+      "end": 157.0,
+      "speaker": "SPEAKER_01",
+      "text": "Das wären dann insgesamt vier Punkte. Das heißt, Rot hat drei Würfel, um das erfolgreich durchzubringen."
+    },
+    {
+      "start": 157.0,
+      "end": 164.0,
+      "speaker": "SPEAKER_01",
+      "text": "Im schlimmsten Fall hat Rot schlecht argumentiert. Blau hat die besseren Argumente. Dann hat man 4 mal 4."
+    },
+    {
+      "start": 164.0,
+      "end": 170.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also Rot hat dann mit drei Würfeln 16 zu würfeln und da ist die Wahrscheinlichkeit schon klein."
+    },
+    {
+      "start": 170.0,
+      "end": 180.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also was effektiv passiert ist, wir bewerten mit dieser Methode, die die Argumentationsqualität zugunsten oder zum Nachteil von Rot bzw. Blau."
+    },
+    {
+      "start": 182.0,
+      "end": 184.0,
+      "speaker": "SPEAKER_01",
+      "text": "Gibt es da noch Fragen zu?"
+    },
+    {
+      "start": 186.0,
+      "end": 187.0,
+      "speaker": "SPEAKER_02",
+      "text": "Nein, keine Fragen."
+    },
+    {
+      "start": 187.0,
+      "end": 188.0,
+      "speaker": "SPEAKER_02",
+      "text": "Keine Fragen."
+    },
+    {
+      "start": 188.0,
+      "end": 194.0,
+      "speaker": "SPEAKER_01",
+      "text": "Wunderbar. Also dann würde ich sagen, beginnen wir gleich mit der ersten Phase."
+    },
+    {
+      "start": 194.0,
+      "end": 202.0,
+      "speaker": "SPEAKER_01",
+      "text": "In dieser Phase darf zuerst Blau würfeln und prüfen, ob er eine 12 hat. Also Blau würfel gerne mal."
+    },
+    {
+      "start": 207.0,
+      "end": 209.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ich habe eine 10 gewürfelt."
+    },
+    {
+      "start": 209.0,
+      "end": 216.0,
+      "speaker": "SPEAKER_01",
+      "text": "Eine 10 gewürfelt, Pech gehabt, nicht geklappt. Jetzt kriegst du den Vorteil nicht aufgedeckt."
+    },
+    {
+      "start": 216.0,
+      "end": 221.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also jetzt darfst du kurz in einen anderen Raum treten. Wir warten kurz bis Blau woanders ist."
+    },
+    {
+      "start": 222.0,
+      "end": 234.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, Rot. Du darfst jetzt 2 mal würfeln. Der erste Wurf ist quasi die X-Achse. Der zweite Wurf die Y-Achse."
+    },
+    {
+      "start": 234.0,
+      "end": 241.0,
+      "speaker": "SPEAKER_01",
+      "text": "Die Y-Achse und an der Tabelle, die du hier an der Tafel sehen kannst, siehst du welchen Vorteil du dann kriegst."
+    },
+    {
+      "start": 241.0,
+      "end": 243.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also bitte einmal X-Achse würfeln."
+    },
+    {
+      "start": 245.0,
+      "end": 248.0,
+      "speaker": "SPEAKER_02",
+      "text": "Jawoll, X-Achse ist eine 1."
+    },
+    {
+      "start": 249.0,
+      "end": 254.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, das heißt du hast gar keinen Vorteil."
+    },
+    {
+      "start": 255.0,
+      "end": 257.0,
+      "speaker": "SPEAKER_01",
+      "text": "Nein."
+    },
+    {
+      "start": 257.0,
+      "end": 263.0,
+      "speaker": "SPEAKER_01",
+      "text": "Weil bei 1 gibt es gar keinen Vorteil. 1 und 2 gibt es keinen Vorteil. Erst ab 2 und 3."
+    },
+    {
+      "start": 264.0,
+      "end": 268.0,
+      "speaker": "SPEAKER_01",
+      "text": "Aber der Antonio, der weiß das ja nicht, Team Blau, der denkt vielleicht hast du einen Vorteil."
+    },
+    {
+      "start": 268.0,
+      "end": 270.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ich kann sie vielleicht zu deinem Vorteil nutzen."
+    },
+    {
+      "start": 270.0,
+      "end": 276.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, dann können wir jetzt in die zweite Phase gehen."
+    },
+    {
+      "start": 276.0,
+      "end": 279.0,
+      "speaker": "SPEAKER_01",
+      "text": "Antonio hat sich bestimmt Gedanken gemacht. Ich hole ihn wieder in den Raum."
+    },
+    {
+      "start": 280.0,
+      "end": 283.0,
+      "speaker": "SPEAKER_01",
+      "text": "Hallo Antonio, willkommen zurück."
+    },
+    {
+      "start": 284.0,
+      "end": 286.0,
+      "speaker": "SPEAKER_01",
+      "text": "Schön wieder da zu sein."
+    },
+    {
+      "start": 286.0,
+      "end": 297.0,
+      "speaker": "SPEAKER_01",
+      "text": "Antonio, Rot hat sich überlegt wie er es angreifen will, wie es also jetzt das Hackathon sabotieren will, die Organisation blockieren will."
+    },
+    {
+      "start": 297.0,
+      "end": 300.0,
+      "speaker": "SPEAKER_01",
+      "text": "Und es ist deine Aufgabe zu verteidigen."
+    },
+    {
+      "start": 300.0,
+      "end": 306.0,
+      "speaker": "SPEAKER_01",
+      "text": "Rot, was hast du vor? Wie gehst du vor? Und was erwartest du an Wirkung?"
+    },
+    {
+      "start": 307.0,
+      "end": 311.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ja, genau, ich habe mir folgendes überlegt."
+    },
+    {
+      "start": 311.0,
+      "end": 318.0,
+      "speaker": "SPEAKER_02",
+      "text": "Das Grund von Unnachrichtigkeit konnte ich an die Mail-Zugangsdaten von dem Organisator Christian gelangen"
+    },
+    {
+      "start": 318.0,
+      "end": 325.0,
+      "speaker": "SPEAKER_02",
+      "text": "und verbreite am Freitagabend kurz vor dem Event widersprüchliche Informationen zum Austragungsort des Hackathons."
+    },
+    {
+      "start": 325.0,
+      "end": 330.0,
+      "speaker": "SPEAKER_02",
+      "text": "Also verschickte Informationen, dass sich der Austragungsort geändert hat."
+    },
+    {
+      "start": 330.0,
+      "end": 337.0,
+      "speaker": "SPEAKER_02",
+      "text": "Es ist Freitagnachmittags, sodass viele weitere Teilnehmer des Organisationsteams das gar nicht mehr mitbekommen."
+    },
+    {
+      "start": 337.0,
+      "end": 341.0,
+      "speaker": "SPEAKER_02",
+      "text": "Allerdings ein großer Teil der Teilnehmenden des Hackathons."
+    },
+    {
+      "start": 341.0,
+      "end": 346.0,
+      "speaker": "SPEAKER_02",
+      "text": "Es führt zu Verwirrung und auch Frustration, weil nicht viele nicht wissen, was sie jetzt machen sollen."
+    },
+    {
+      "start": 346.0,
+      "end": 353.0,
+      "speaker": "SPEAKER_02",
+      "text": "Viele der Teilnehmer buchen spontan auch schon neue Züge, um an den neuen Austragungsort zu gelangen."
+    },
+    {
+      "start": 354.0,
+      "end": 362.0,
+      "speaker": "SPEAKER_02",
+      "text": "Am Montag, also wenn der Hackathon dann startet, merkt das Organisationsteam, dass die Teilnehmer an verschiedenen Standorten sind."
+    },
+    {
+      "start": 362.0,
+      "end": 373.0,
+      "speaker": "SPEAKER_02",
+      "text": "Es ist sehr chaotisch und der kann eben nicht stattfinden, weil die Teilnehmer alle so zerstreut sind und sehr frustriert und verärgert sind über das Chaos."
+    },
+    {
+      "start": 373.0,
+      "end": 378.0,
+      "speaker": "SPEAKER_02",
+      "text": "Und das ist auch sehr schlecht für den Ruf des Hackathons und des Organisationsteams."
+    },
+    {
+      "start": 379.0,
+      "end": 384.0,
+      "speaker": "SPEAKER_02",
+      "text": "Genau, also mein Hauptstörungsstil ist die Kommunikation und Chaos verbreiten."
+    },
+    {
+      "start": 386.0,
+      "end": 390.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, Antonio, hast du erstmal Fragen zur Natur des Angriffs?"
+    },
+    {
+      "start": 392.0,
+      "end": 394.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ich habe erstmal keine Fragen."
+    },
+    {
+      "start": 394.0,
+      "end": 401.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ok, das bedeutet, wir können gleich entlang dieser Dimension, die ihr an der Tafel seht, diskutieren."
+    },
+    {
+      "start": 401.0,
+      "end": 406.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also, diese Angriffe in klarer beschrieben hat, mit diesen Fakemails und so weiter."
+    },
+    {
+      "start": 410.0,
+      "end": 416.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ressourcenintensitätstechnisch für RUT als staatlicher Akteur, der diesen Hackathon stören will."
+    },
+    {
+      "start": 416.0,
+      "end": 428.0,
+      "speaker": "SPEAKER_01",
+      "text": "Wie viele Ressourcen muss es aufwenden, wenn es so minimale Ressourcen sind, Skript, KDM, Keller und XL, die gesamten staatlichen Ressourcen, die für so einen Angriff zur Verfügung stehen, sind."
+    },
+    {
+      "start": 428.0,
+      "end": 432.0,
+      "speaker": "SPEAKER_01",
+      "text": "Wie viele Ressourcen müsste RUT aufwenden?"
+    },
+    {
+      "start": 435.0,
+      "end": 451.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also, dadurch, dass der Organisator Christian, wie gesagt, sehr nachlässig beim Sperren seines Laptops und ich konnte ohne große Mühe, konnte ich mir einfach Zugang zu seinem Laptop verschaffen."
+    },
+    {
+      "start": 452.0,
+      "end": 461.0,
+      "speaker": "SPEAKER_02",
+      "text": "Und konnte daher schnell die Mails verschicken. Das war jetzt für mich einfach. Ich hatte keine großen Ressourcenaufwand, dass ich irgendwas ins Skript schreiben musste."
+    },
+    {
+      "start": 461.0,
+      "end": 466.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ich musste einfach nur sehr gut aufpassen und im richtigen Moment am richtigen Ort sein."
+    },
+    {
+      "start": 467.0,
+      "end": 471.0,
+      "speaker": "SPEAKER_00",
+      "text": "Aber wie wahrscheinlich ist es denn, dass er wirklich seinen Laptop anlässt?"
+    },
+    {
+      "start": 472.0,
+      "end": 484.0,
+      "speaker": "SPEAKER_02",
+      "text": "Gut, ich habe ihn lang genug observiert, beobachtet, wusste, wann er sich im Büro die Kaffee holt und dass er sich dann meistens nicht den Laptop sperrt."
+    },
+    {
+      "start": 484.0,
+      "end": 489.0,
+      "speaker": "SPEAKER_02",
+      "text": "Dann hatte er dann die Möglichkeit, an seinen Laptop ranzutreten und die Mail zu verfassen."
+    },
+    {
+      "start": 491.0,
+      "end": 498.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, und in welchem Gebäude war das Ganze? Also, ich meine, man müsste sich auch Zutritt zu seinem Büro verschaffen?"
+    },
+    {
+      "start": 499.0,
+      "end": 503.0,
+      "speaker": "SPEAKER_02",
+      "text": "Genau, richtig. Also ich verfüge ja über einen allgemein befähigten Innenpeter."
+    },
+    {
+      "start": 503.0,
+      "end": 512.0,
+      "speaker": "SPEAKER_02",
+      "text": "Der muss ja einfach nur Mitarbeiter der BWI sein, ohne große, ohne große, ja, Atmenrechten."
+    },
+    {
+      "start": 512.0,
+      "end": 522.0,
+      "speaker": "SPEAKER_02",
+      "text": "Das heißt, auch jeder Student hätte die Möglichkeit, wenn er mit Ihnen im einem Büro im Gebäude sitzt, in einem BWI-Gebäude, ihn zu beobachten."
+    },
+    {
+      "start": 522.0,
+      "end": 528.0,
+      "speaker": "SPEAKER_02",
+      "text": "Und zum Beispiel, weil es der Freitagsabend gewesen ist, hat er vielleicht gerade seine Tassen weggebracht, bevor er in den Feierabend gegangen ist."
+    },
+    {
+      "start": 528.0,
+      "end": 531.0,
+      "speaker": "SPEAKER_02",
+      "text": "Und in dem Moment habe ich dann ausgenutzt und habe die Mail verschickt."
+    },
+    {
+      "start": 532.0,
+      "end": 534.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, alles klar."
+    },
+    {
+      "start": 535.0,
+      "end": 539.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also, ist das kleiner Aufwand?"
+    },
+    {
+      "start": 539.0,
+      "end": 547.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also, wenn man allgemein befähigenden Innenpeter hat, der muss ja den richtigen Raum finden, der muss ja zur richtigen Zeit am richtigen Ort sein."
+    },
+    {
+      "start": 548.0,
+      "end": 552.0,
+      "speaker": "SPEAKER_01",
+      "text": "Oder arbeitet Christian regelmäßig aus dem Büro?"
+    },
+    {
+      "start": 554.0,
+      "end": 560.0,
+      "speaker": "SPEAKER_02",
+      "text": "Der Innenpeter hat beobachtet, dass Christian einmal die Woche im Büro ist."
+    },
+    {
+      "start": 560.0,
+      "end": 570.0,
+      "speaker": "SPEAKER_02",
+      "text": "Und das, klar, braucht halt ein bisschen Vorlaufzeiten, das herauszufinden, um die Regelmäßigkeiten zu finden, aber das lässt sich recht schnell rausfinden."
+    },
+    {
+      "start": 570.0,
+      "end": 582.0,
+      "speaker": "SPEAKER_02",
+      "text": "Also, ich würde sagen, S bis M, also den schon, vielleicht keinen minimalsten Aufwand, vielleicht einen kriegen Aufwand, weil man das, wie gesagt, ein bisschen vorhin dann gucken musste und beobachten musste."
+    },
+    {
+      "start": 582.0,
+      "end": 584.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ich würde mich auch noch an M vielleicht einlassen."
+    },
+    {
+      "start": 586.0,
+      "end": 590.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also, Antonio, was ist dein Fazit? Was ist S oder M für dich okay?"
+    },
+    {
+      "start": 591.0,
+      "end": 600.0,
+      "speaker": "SPEAKER_00",
+      "text": "Also, weil ein paar Variable mit drin sind, die man einfach irgendwie nicht vorausplanen kann, würde ich schon sagen, dass es eher M ist."
+    },
+    {
+      "start": 600.0,
+      "end": 605.0,
+      "speaker": "SPEAKER_01",
+      "text": "Aber wir sprechen auf dieser Dimension über die Ressourcenintensität. Die Komplexität kommt noch."
+    },
+    {
+      "start": 605.0,
+      "end": 611.0,
+      "speaker": "SPEAKER_01",
+      "text": "Wie viele Ressourcen muss ein Staat aufwenden, um das zu tun? Und wenn er eh in allgemein befähigten Innenpeter hat?"
+    },
+    {
+      "start": 613.0,
+      "end": 616.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, in dem Fall einige ich mich gerne auf S."
+    },
+    {
+      "start": 616.0,
+      "end": 623.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, dann Ressourcenintensität für diesen Angriff, S. Wenn ich nichts dagegen höre, dann gehen wir zur nächsten Dimension."
+    },
+    {
+      "start": 623.0,
+      "end": 630.0,
+      "speaker": "SPEAKER_01",
+      "text": "Die nächste Dimension ist nämlich Komplexität. Das heißt, wie komplex ist der Angriff? Wie viele Variable muss ich koordinieren?"
+    },
+    {
+      "start": 630.0,
+      "end": 638.0,
+      "speaker": "SPEAKER_01",
+      "text": "Beziehungsweise brauche ich irgendwie super besondere Skills? Da habe ich schon rausgehört, besondere Skills sind da nicht. Ich muss noch ein bisschen beobachten."
+    },
+    {
+      "start": 638.0,
+      "end": 641.0,
+      "speaker": "SPEAKER_01",
+      "text": "Gibt es da viele Variable, die koordiniert werden müssen?"
+    },
+    {
+      "start": 641.0,
+      "end": 648.0,
+      "speaker": "SPEAKER_00",
+      "text": "Also da kann ich direkt mal eingreifen und sagen, meiner Meinung nach auf jeden Fall. Deswegen müsste es mindestens M sein."
+    },
+    {
+      "start": 648.0,
+      "end": 656.0,
+      "speaker": "SPEAKER_00",
+      "text": "Weil er einfach auf dem Weg bis dahin relativ viel schief laufen kann. Ich meine, er kann auch schnell wieder zurücklaufen aus dem Büro oder in sein Büro."
+    },
+    {
+      "start": 656.0,
+      "end": 664.0,
+      "speaker": "SPEAKER_00",
+      "text": "Und weil er irgendwas vergessen hat und sieht dann plötzlich den Innenpeter. Der Innenpeter kann auch irgendwelche anderen Fehler machen."
+    },
+    {
+      "start": 664.0,
+      "end": 674.0,
+      "speaker": "SPEAKER_00",
+      "text": "Vielleicht ist der Laptop doch gesperrt, was ja normalerweise eigentlich auch der Fall ist, wenn Mitarbeiter vom Schreibtisch aufsteht."
+    },
+    {
+      "start": 674.0,
+      "end": 678.0,
+      "speaker": "SPEAKER_00",
+      "text": "Deswegen würde ich sagen, Komplexität ist da mindestens M."
+    },
+    {
+      "start": 678.0,
+      "end": 684.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, also ich kenne die zu M. Abhängig von eurer Diskussion, Klara, bist du damit einverstanden?"
+    },
+    {
+      "start": 684.0,
+      "end": 688.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ich bin damit einverstanden. Also ich sehe natürlich auch das Komplex, das durchzuführen."
+    },
+    {
+      "start": 688.0,
+      "end": 699.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, das bedeutet Komplexität bleiben wir bei M. Wenn wir zur nächsten Stufe springen, jetzt Verteidigung der BWI gegen solche Angriffe."
+    },
+    {
+      "start": 699.0,
+      "end": 704.0,
+      "speaker": "SPEAKER_01",
+      "text": "Was haben wir denn im Innenpetto?"
+    },
+    {
+      "start": 704.0,
+      "end": 713.0,
+      "speaker": "SPEAKER_01",
+      "text": "Das ist ja eine Art der Verstärkung und Sensibilisierung, dass die Mitarbeiter sensibilisiert werden."
+    },
+    {
+      "start": 713.0,
+      "end": 717.0,
+      "speaker": "SPEAKER_01",
+      "text": "Aber halt sehr weiche Faktoren würde ich sagen."
+    },
+    {
+      "start": 717.0,
+      "end": 721.0,
+      "speaker": "SPEAKER_02",
+      "text": "Bei den weichen Faktoren, da stimme ich auch zu."
+    },
+    {
+      "start": 721.0,
+      "end": 724.0,
+      "speaker": "SPEAKER_02",
+      "text": "Und sind die denn nicht ausgeprägt?"
+    },
+    {
+      "start": 724.0,
+      "end": 728.0,
+      "speaker": "SPEAKER_02",
+      "text": "Kommt auf die Mitarbeiter an, wie sie es umsetzen."
+    },
+    {
+      "start": 728.0,
+      "end": 732.0,
+      "speaker": "SPEAKER_00",
+      "text": "Also Status Quo. Wir spielen immer Status Quo BWI, würdest du sagen."
+    },
+    {
+      "start": 732.0,
+      "end": 737.0,
+      "speaker": "SPEAKER_00",
+      "text": "Die Mehrheit der Mitarbeiter setzt das schon richtig um oder ist es eine Minderheit, Antonio?"
+    },
+    {
+      "start": 737.0,
+      "end": 748.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also ich persönlich würde sagen, dass die Mitarbeiter, die sich umsetzen, die sich umsetzen, die sich umsetzen, die sich umsetzen."
+    },
+    {
+      "start": 749.0,
+      "end": 756.0,
+      "speaker": "SPEAKER_00",
+      "text": "Also ich persönlich würde sagen, dass die Mehrheit auf jeden Fall ihre Laptops sperrt."
+    },
+    {
+      "start": 756.0,
+      "end": 768.0,
+      "speaker": "SPEAKER_00",
+      "text": "Und ich glaube auch, wenn ich mich auch so bei meinen Arbeitskollegen umschaue, dass man nicht nur den Laptop sperrt, sondern auch die PKI-Karte mitnimmt."
+    },
+    {
+      "start": 769.0,
+      "end": 780.0,
+      "speaker": "SPEAKER_00",
+      "text": "Dementsprechend würde ich auf jeden Fall schon sagen, dass das eher die Mehrheit der BWI-Mitarbeiter betrifft, dass sie ihren Laptop sperren und sogar auch die PKI-Karte mitnehmen."
+    },
+    {
+      "start": 780.0,
+      "end": 791.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Also ist das schon wahrscheinlich, also es ist eher unwahrscheinlich, dass Christian die Karte stecken lässt und den Laptop nicht sperrt."
+    },
+    {
+      "start": 791.0,
+      "end": 793.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ja."
+    },
+    {
+      "start": 793.0,
+      "end": 803.0,
+      "speaker": "SPEAKER_01",
+      "text": "Bedeutet das, dass sie bei Komplexität vielleicht doch ein bisschen höher gehen müssen, weil sie vielleicht noch ablenken und so weiter oder ist das immer noch für den staatlichen Akteur M?"
+    },
+    {
+      "start": 803.0,
+      "end": 808.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ich habe ihn ja beobachtet. Ich habe ihn ja lange Zeit vorher observiert und beobachtet."
+    },
+    {
+      "start": 808.0,
+      "end": 818.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ich kenne seine Muster, wie er unterwegs ist und habe ihn ja deswegen auch identifiziert als denjenigen, die mich stören kann, über den ich den Stoffaktor einbringen kann."
+    },
+    {
+      "start": 818.0,
+      "end": 819.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 819.0,
+      "end": 824.0,
+      "speaker": "SPEAKER_00",
+      "text": "Ja, aber wenn ich da nochmal was einwerfen dürfte, die E-Mail muss ja auch erstmal geschrieben werden."
+    },
+    {
+      "start": 824.0,
+      "end": 835.0,
+      "speaker": "SPEAKER_00",
+      "text": "Das heißt also, es muss ja sicher sein und da sind wir auch vielleicht nochmal bei der Komplexität, dass der Christian lang genug weg ist, weil so eine E-Mail zu verfassen, die dann auch authentisch ist, das dauert ja ein bisschen."
+    },
+    {
+      "start": 838.0,
+      "end": 845.0,
+      "speaker": "SPEAKER_00",
+      "text": "Deswegen diskutiere ich da gerne nochmal darüber, das Ganze vielleicht doch auf L zu setzen."
+    },
+    {
+      "start": 845.0,
+      "end": 848.0,
+      "speaker": "SPEAKER_00",
+      "text": "Ja."
+    },
+    {
+      "start": 848.0,
+      "end": 854.0,
+      "speaker": "SPEAKER_00",
+      "text": "Technisch habe ich aus anderen Wargames erfahren, gibt es die Möglichkeit, ja, so Pastebin zu nutzen oder so was."
+    },
+    {
+      "start": 854.0,
+      "end": 862.0,
+      "speaker": "SPEAKER_01",
+      "text": "Das ist so ein Einmal-Link, wo ich die Sachen, den ganzen Text hinterlege, dass der einfach über den Browser reingeht, copy und dann wieder pasten kann."
+    },
+    {
+      "start": 862.0,
+      "end": 870.0,
+      "speaker": "SPEAKER_01",
+      "text": "Über solche Techniken verfügt der weiße Schachtrektor natürlich, also der Angreifer, der hat da natürlich die Möglichkeiten dazu."
+    },
+    {
+      "start": 872.0,
+      "end": 884.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also ich würde mal sagen, rein von der Zeit, wie lange man brauchen, das zu tippen, also wie gesagt, copy-paste schnell gemacht, das wäre jetzt kein so großes Argument, aber man weiß natürlich nicht, wie schnell der Christian Lortrop wieder zurückkommt."
+    },
+    {
+      "start": 885.0,
+      "end": 887.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ich hatte da was vergessen."
+    },
+    {
+      "start": 887.0,
+      "end": 888.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ja."
+    },
+    {
+      "start": 888.0,
+      "end": 896.0,
+      "speaker": "SPEAKER_02",
+      "text": "So wir sind hier bei der Dimension Verteidigung, wir hatten jetzt kurz geguckt, auf jeden Fall Komplexität, das noch erhöhen wollen, aber Komplexität erhöhen wir eher nicht, haben wir festgestellt."
+    },
+    {
+      "start": 896.0,
+      "end": 902.0,
+      "speaker": "SPEAKER_01",
+      "text": "Aber Verteidigung der BWI gegen diesen Angriff sagen wir eher gut als schlecht."
+    },
+    {
+      "start": 902.0,
+      "end": 911.0,
+      "speaker": "SPEAKER_01",
+      "text": "Leute, es gibt ein Bewusstsein, da die Mehrheit der Leute achten drauf, das heißt, das ist nicht so einfach, es ist ein Problem."
+    },
+    {
+      "start": 911.0,
+      "end": 919.0,
+      "speaker": "SPEAKER_01",
+      "text": "Aber Leute, ich finde, es gibt ein Bewusstsein, da die Mehrheit der Leute achten drauf, das heißt, ich tendiere zu L abhängig von eurer Diskussion, XL wäre perfekt, L ist schon mal sehr gut."
+    },
+    {
+      "start": 919.0,
+      "end": 922.0,
+      "speaker": "SPEAKER_01",
+      "text": "Seid ihr damit einverstanden?"
+    },
+    {
+      "start": 922.0,
+      "end": 923.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ja."
+    },
+    {
+      "start": 923.0,
+      "end": 925.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ich bin mit L einverstanden, ja."
+    },
+    {
+      "start": 925.0,
+      "end": 926.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, wunderbar."
+    },
+    {
+      "start": 926.0,
+      "end": 929.0,
+      "speaker": "SPEAKER_01",
+      "text": "Das heißt, Verteidigung liegen wir bei L für diesen Angriff."
+    },
+    {
+      "start": 929.0,
+      "end": 937.0,
+      "speaker": "SPEAKER_01",
+      "text": "Das ist die letzte Frage, Angriffzeitfenster ab dem Zeitpunkt, wo der Angriff startet, bis zum Zeitpunkt, wo der Schaden nicht mehr vermeidbar ist."
+    },
+    {
+      "start": 937.0,
+      "end": 941.0,
+      "speaker": "SPEAKER_01",
+      "text": "Wie viel Zeit habe ich, die da ins Land geht?"
+    },
+    {
+      "start": 941.0,
+      "end": 949.0,
+      "speaker": "SPEAKER_01",
+      "text": "Weil je mehr Zeit, umso höher die Wahrscheinlichkeit, dass ihn durch Glück da was aufdecken kann."
+    },
+    {
+      "start": 950.0,
+      "end": 963.0,
+      "speaker": "SPEAKER_02",
+      "text": "Dadurch, dass es Freitags, Freitags, Nachmittags, Abends ist, ist es schon, ja, also es geht, wir gehen natürlich schon Stunden bis Montags dann."
+    },
+    {
+      "start": 963.0,
+      "end": 974.0,
+      "speaker": "SPEAKER_02",
+      "text": "Aber ich würde sagen, es sind ja ein paar Stunden, also so, beziehungsweise es sind ein paar Tage, wenn es bis, also der unvermeidbare Schaden ist, heißt Montags."
+    },
+    {
+      "start": 975.0,
+      "end": 996.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, das bedeutet, ab dem Punkt, wo du quasi deinen Inentäter an den Laptop schickst, da beginnt so der Angriff und bis die Wirkung voll entfaltet ist, ist das zwei Tage, drei Tage."
+    },
+    {
+      "start": 996.0,
+      "end": 998.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ja."
+    },
+    {
+      "start": 998.0,
+      "end": 1002.0,
+      "speaker": "SPEAKER_00",
+      "text": "Vorausgesetzt natürlich niemand öffnet seine E-Mails."
+    },
+    {
+      "start": 1002.0,
+      "end": 1005.0,
+      "speaker": "SPEAKER_00",
+      "text": "Niemand vom Regulationsteam."
+    },
+    {
+      "start": 1005.0,
+      "end": 1006.0,
+      "speaker": "SPEAKER_00",
+      "text": "Ja."
+    },
+    {
+      "start": 1006.0,
+      "end": 1014.0,
+      "speaker": "SPEAKER_01",
+      "text": "Da würde ich auch mindestens eine M ansetzen, weil S ist immer so, innerhalb von Minuten ist es super schnell durch."
+    },
+    {
+      "start": 1014.0,
+      "end": 1022.0,
+      "speaker": "SPEAKER_01",
+      "text": "M sind Tage, L sind eher so Wochen bis Monate und XL ist so, kannst du dann Jahre in Anspruch nehmen."
+    },
+    {
+      "start": 1022.0,
+      "end": 1024.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ist das okay für euch?"
+    },
+    {
+      "start": 1024.0,
+      "end": 1026.0,
+      "speaker": "SPEAKER_00",
+      "text": "Für mich ist M ein Rundum."
+    },
+    {
+      "start": 1026.0,
+      "end": 1030.0,
+      "speaker": "SPEAKER_01",
+      "text": "Perfekt. Das heißt, sind wir hier bei Angriffszeitfenster M."
+    },
+    {
+      "start": 1030.0,
+      "end": 1042.0,
+      "speaker": "SPEAKER_01",
+      "text": "Das bedeutet, wir haben in Ressourcen, zusammengefasst in Ressourcen haben wir 1S, Komplexität bei M, Verteidigung bei L, Angriffszeitfenster bei M."
+    },
+    {
+      "start": 1042.0,
+      "end": 1051.0,
+      "speaker": "SPEAKER_01",
+      "text": "Das heißt, in Summe sind wir hier jetzt bei 1, 2, 2 und 3, also insgesamt sind wir bei 8."
+    },
+    {
+      "start": 1052.0,
+      "end": 1059.0,
+      "speaker": "SPEAKER_01",
+      "text": "Das heißt, Rot darf jetzt mit drei Würfeln würfeln, ob der Angriff durchgeht und muss mindestens eine 8 würfeln."
+    },
+    {
+      "start": 1059.0,
+      "end": 1062.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, ich würfel."
+    },
+    {
+      "start": 1062.0,
+      "end": 1065.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ah, ich habe eine 10 gewürfelt."
+    },
+    {
+      "start": 1065.0,
+      "end": 1068.0,
+      "speaker": "SPEAKER_01",
+      "text": "Du hast eine 10 gewürfelt. Clara hat ihr Würfelglück."
+    },
+    {
+      "start": 1068.0,
+      "end": 1071.0,
+      "speaker": "SPEAKER_01",
+      "text": "Wie erwartet und wie immer."
+    },
+    {
+      "start": 1071.0,
+      "end": 1075.0,
+      "speaker": "SPEAKER_01",
+      "text": "Bedeutet, der Angriff geht erfolgreich durch."
+    },
+    {
+      "start": 1075.0,
+      "end": 1087.0,
+      "speaker": "SPEAKER_01",
+      "text": "Clara lässt den Moment abraten, die Ingentäter, bis der Christian kurz aufsteht, sich einen Kaffee holt zur späten Freitagsstunde und er läuft dann rein."
+    },
+    {
+      "start": 1087.0,
+      "end": 1101.0,
+      "speaker": "SPEAKER_01",
+      "text": "Er geht auf Pastebin, lädt sich das E-Mail schnell runter am Laptop vom Christian, pastet ihn ins E-Mail-Postfach und schickt die Rundmail an alle Hackathon-Teilnehmer,"
+    },
+    {
+      "start": 1101.0,
+      "end": 1106.0,
+      "speaker": "SPEAKER_01",
+      "text": "die den Standort des Hackathons verändert und ein bisschen Unruhe stiften sollen."
+    },
+    {
+      "start": 1108.0,
+      "end": 1112.0,
+      "speaker": "SPEAKER_01",
+      "text": "So, das bedeutet, der Angriff ist erstmal durch."
+    },
+    {
+      "start": 1112.0,
+      "end": 1121.0,
+      "speaker": "SPEAKER_01",
+      "text": "Die Auswirkungen sind, Leute lesen die und können dann, wenn der Tag dann ist, werden Teile davon ausfallen."
+    },
+    {
+      "start": 1121.0,
+      "end": 1137.0,
+      "speaker": "SPEAKER_01",
+      "text": "Wir gehen davon aus, dass die jetzt diese E-Mails nicht am Samstag nochmal beantworten an Christian, also da er eigentlich keine Zeit zu reagieren hat, weil er will sich ja auch mal vor dem Hackathon ein bisschen ausruhen."
+    },
+    {
+      "start": 1137.0,
+      "end": 1141.0,
+      "speaker": "SPEAKER_01",
+      "text": "Jetzt wiederholen wir quasi gleich Runde."
+    },
+    {
+      "start": 1141.0,
+      "end": 1149.0,
+      "speaker": "SPEAKER_01",
+      "text": "Wir gehen zurück in die Phase 1 und werden gleich den nächsten Angriff durchspielen, der darauf aufbauen kann, der was ablenken kann."
+    },
+    {
+      "start": 1149.0,
+      "end": 1155.0,
+      "speaker": "SPEAKER_01",
+      "text": "Der einfach in eine andere Komponente quasi des Hackathons angreifen könnte."
+    },
+    {
+      "start": 1155.0,
+      "end": 1159.0,
+      "speaker": "SPEAKER_01",
+      "text": "Und auch hier darf Blau jetzt wieder drei Würfel würfeln."
+    },
+    {
+      "start": 1159.0,
+      "end": 1161.0,
+      "speaker": "SPEAKER_01",
+      "text": "Bitte einmal kurz würfeln."
+    },
+    {
+      "start": 1163.0,
+      "end": 1165.0,
+      "speaker": "SPEAKER_01",
+      "text": "Jawoll, ich würfel."
+    },
+    {
+      "start": 1165.0,
+      "end": 1171.0,
+      "speaker": "SPEAKER_01",
+      "text": "Du brauchst mindestens eine 12, um den Aufklärungsvorteil von Rot aufzudecken."
+    },
+    {
+      "start": 1171.0,
+      "end": 1173.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ich habe leider eine 5 gewürfelt."
+    },
+    {
+      "start": 1173.0,
+      "end": 1176.0,
+      "speaker": "SPEAKER_00",
+      "text": "Also wieder kein Aufklärungsvorteil."
+    },
+    {
+      "start": 1176.0,
+      "end": 1177.0,
+      "speaker": "SPEAKER_01",
+      "text": "Was willst du hier?"
+    },
+    {
+      "start": 1177.0,
+      "end": 1179.0,
+      "speaker": "SPEAKER_01",
+      "text": "Aufklärungsvorteil gewürfelt."
+    },
+    {
+      "start": 1179.0,
+      "end": 1183.0,
+      "speaker": "SPEAKER_01",
+      "text": "Im Hintergrund hörst du, da sprechen andere Leute die Störenkarten ein bisschen."
+    },
+    {
+      "start": 1183.0,
+      "end": 1186.0,
+      "speaker": "SPEAKER_01",
+      "text": "Die zweite Runde ist ein bisschen audiointensiver."
+    },
+    {
+      "start": 1186.0,
+      "end": 1189.0,
+      "speaker": "SPEAKER_01",
+      "text": "Mal gucken, ob ihr noch gut argumentieren könnt."
+    },
+    {
+      "start": 1189.0,
+      "end": 1193.0,
+      "speaker": "SPEAKER_01",
+      "text": "Alles klar, dann wechsle ich mal den Raum."
+    },
+    {
+      "start": 1193.0,
+      "end": 1195.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ja, bitte den Raum wechseln."
+    },
+    {
+      "start": 1195.0,
+      "end": 1201.0,
+      "speaker": "SPEAKER_01",
+      "text": "Clara, würfel einmal für die X-Achse und dann einmal für die Y-Achse."
+    },
+    {
+      "start": 1201.0,
+      "end": 1204.0,
+      "speaker": "SPEAKER_01",
+      "text": "Jawoll, X-Achse."
+    },
+    {
+      "start": 1204.0,
+      "end": 1208.0,
+      "speaker": "SPEAKER_02",
+      "text": "Jawoll, X-Achse ist eine 5."
+    },
+    {
+      "start": 1208.0,
+      "end": 1211.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, da sind plus zwei."
+    },
+    {
+      "start": 1211.0,
+      "end": 1214.0,
+      "speaker": "SPEAKER_01",
+      "text": "Und jetzt mal die Y-Achse."
+    },
+    {
+      "start": 1214.0,
+      "end": 1216.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ist eine 4."
+    },
+    {
+      "start": 1216.0,
+      "end": 1219.0,
+      "speaker": "SPEAKER_01",
+      "text": "Eine 4, das heißt auf Personal."
+    },
+    {
+      "start": 1219.0,
+      "end": 1227.0,
+      "speaker": "SPEAKER_01",
+      "text": "Auf Personal hast du jetzt einen Vorteil, wenn du gegen Personal irgendwie einen Angriff starten solltest."
+    },
+    {
+      "start": 1227.0,
+      "end": 1231.0,
+      "speaker": "SPEAKER_01",
+      "text": "Von plus zwei auf deinen Erfolgswurf in der nächsten Phase."
+    },
+    {
+      "start": 1231.0,
+      "end": 1240.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also, jetzt warten wir noch mal kurz, bis Antonio als Team Blau wieder reinkommt."
+    },
+    {
+      "start": 1240.0,
+      "end": 1242.0,
+      "speaker": "SPEAKER_01",
+      "text": "Genau, ich hole dir mal wieder einen Raum."
+    },
+    {
+      "start": 1242.0,
+      "end": 1244.0,
+      "speaker": "SPEAKER_01",
+      "text": "Willkommen, Antonio."
+    },
+    {
+      "start": 1244.0,
+      "end": 1245.0,
+      "speaker": "SPEAKER_01",
+      "text": "So, da bin ich wieder."
+    },
+    {
+      "start": 1245.0,
+      "end": 1246.0,
+      "speaker": "SPEAKER_01",
+      "text": "Danke schön."
+    },
+    {
+      "start": 1246.0,
+      "end": 1250.0,
+      "speaker": "SPEAKER_01",
+      "text": "Rot hat sich überlegt, wie die weiter vorgehen wollen."
+    },
+    {
+      "start": 1250.0,
+      "end": 1252.0,
+      "speaker": "SPEAKER_01",
+      "text": "Wir haben vielleicht einen Vorteil gewürfelt, vielleicht nicht."
+    },
+    {
+      "start": 1252.0,
+      "end": 1255.0,
+      "speaker": "SPEAKER_01",
+      "text": "In der letzten Runde hatten die keinen Vorteil."
+    },
+    {
+      "start": 1255.0,
+      "end": 1260.0,
+      "speaker": "SPEAKER_01",
+      "text": "Und jetzt, ich habe jetzt noch einen Punkt, den ich noch nicht richtig beantworten kann."
+    },
+    {
+      "start": 1260.0,
+      "end": 1264.0,
+      "speaker": "SPEAKER_01",
+      "text": "Und jetzt, Clara, bitte beschreib mal kurz deinen Angriff."
+    },
+    {
+      "start": 1264.0,
+      "end": 1269.0,
+      "speaker": "SPEAKER_01",
+      "text": "Was greifst du an, wie greifst du das an und welche Wirkung erwartest du?"
+    },
+    {
+      "start": 1269.0,
+      "end": 1272.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ja, also, es ist Montagmorgen."
+    },
+    {
+      "start": 1272.0,
+      "end": 1277.0,
+      "speaker": "SPEAKER_02",
+      "text": "Mein erstes Ziel hat schon funktioniert, dass deutlich weniger Teilnehmer vor Ort sind."
+    },
+    {
+      "start": 1277.0,
+      "end": 1282.0,
+      "speaker": "SPEAKER_02",
+      "text": "Aber ich möchte ja, dass der Katalyn wirklich komplett nicht stattfinden wird."
+    },
+    {
+      "start": 1282.0,
+      "end": 1290.0,
+      "speaker": "SPEAKER_02",
+      "text": "Daher schleicht sich mein Allgemeinbefehl der Innen-Täter als Internavative Veranstaltung."
+    },
+    {
+      "start": 1290.0,
+      "end": 1297.0,
+      "speaker": "SPEAKER_02",
+      "text": "Hat entsprechende Materialien vor Ort mitgenommen, kennt das Gebäude, in dem der Hekaton ausgetragen wird"
+    },
+    {
+      "start": 1297.0,
+      "end": 1300.0,
+      "speaker": "SPEAKER_02",
+      "text": "und verschafft sich Zugang zur Hauptwasserleitung."
+    },
+    {
+      "start": 1300.0,
+      "end": 1307.0,
+      "speaker": "SPEAKER_02",
+      "text": "Er findet sie und kann sie aufbrechen, sodass die komplette Etage geflutet wird."
+    },
+    {
+      "start": 1307.0,
+      "end": 1312.0,
+      "speaker": "SPEAKER_02",
+      "text": "Das OVS5-Team hat keinen Plan B, OVS5-Ausfragewort."
+    },
+    {
+      "start": 1312.0,
+      "end": 1317.0,
+      "speaker": "SPEAKER_02",
+      "text": "Das heißt, das Event muss wirklich abgebrochen werden, weil alles geflutet ist"
+    },
+    {
+      "start": 1317.0,
+      "end": 1321.0,
+      "speaker": "SPEAKER_02",
+      "text": "und der Hekaton nicht stattfinden kann. Es gibt kein Notfallkonzept."
+    },
+    {
+      "start": 1321.0,
+      "end": 1328.0,
+      "speaker": "SPEAKER_02",
+      "text": "Und ja, neben dem ganzen Chaos, der der Mails, dass die Teilnehmer verstreut in ganz Deutschland sind"
+    },
+    {
+      "start": 1328.0,
+      "end": 1336.0,
+      "speaker": "SPEAKER_02",
+      "text": "und die Tatsache, dass jetzt auch noch alles geflutet ist, wird die Veranstaltung komplett abgesagt."
+    },
+    {
+      "start": 1338.0,
+      "end": 1345.0,
+      "speaker": "SPEAKER_01",
+      "text": "Oh. Also, Antonio, hast du Fragen für diesen Angriff, also über den Angriff?"
+    },
+    {
+      "start": 1345.0,
+      "end": 1347.0,
+      "speaker": "SPEAKER_01",
+      "text": "Erstmal nicht, nein."
+    },
+    {
+      "start": 1347.0,
+      "end": 1349.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, dann springen wir gleich zur ersten Dimension."
+    },
+    {
+      "start": 1349.0,
+      "end": 1355.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ressourcenintensität für so einen staatlichen Aktör, das durchzuführen."
+    },
+    {
+      "start": 1355.0,
+      "end": 1359.0,
+      "speaker": "SPEAKER_01",
+      "text": "Wie hoch ist die denn? Was wäre dann da in Einschätzung klarer?"
+    },
+    {
+      "start": 1359.0,
+      "end": 1363.0,
+      "speaker": "SPEAKER_02",
+      "text": "Also, es ist natürlich schon aufwendig, an die Gebäudepläne zu kommen,"
+    },
+    {
+      "start": 1363.0,
+      "end": 1366.0,
+      "speaker": "SPEAKER_02",
+      "text": "was man herausfindet, wo die Hauptwasserleitungen sind."
+    },
+    {
+      "start": 1366.0,
+      "end": 1374.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ich würde sagen, für einen staatlichen Aktör, der viele, ja, der Ressourcen, also Geldressourcen hat"
+    },
+    {
+      "start": 1374.0,
+      "end": 1378.0,
+      "speaker": "SPEAKER_02",
+      "text": "und Kontakte hat, ist es aber durchaus machbar."
+    },
+    {
+      "start": 1378.0,
+      "end": 1382.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ich bin auf jeden Fall bereit zu sagen, es ist nicht einfach, ein S."
+    },
+    {
+      "start": 1382.0,
+      "end": 1385.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ich würde sagen, ich schlanke zwischen M und L."
+    },
+    {
+      "start": 1385.0,
+      "end": 1389.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ich darf natürlich schon, ja, intensiv das rauszufinden."
+    },
+    {
+      "start": 1389.0,
+      "end": 1392.0,
+      "speaker": "SPEAKER_02",
+      "text": "Genau, lasst mich aber da gerne auf eine Diskussion ein."
+    },
+    {
+      "start": 1392.0,
+      "end": 1394.0,
+      "speaker": "SPEAKER_02",
+      "text": "Aber ich würde auf jeden Fall sagen, es ist kein S."
+    },
+    {
+      "start": 1394.0,
+      "end": 1398.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, Antonio, sind wir jetzt bei M oder eher höher?"
+    },
+    {
+      "start": 1398.0,
+      "end": 1402.0,
+      "speaker": "SPEAKER_00",
+      "text": "Ja, also, ich bin auf jeden Fall mindestens bei M."
+    },
+    {
+      "start": 1402.0,
+      "end": 1407.0,
+      "speaker": "SPEAKER_00",
+      "text": "Ich sehe das auch so, dass es erstmal ein Problem ist, an die Pläne zu kommen."
+    },
+    {
+      "start": 1407.0,
+      "end": 1415.0,
+      "speaker": "SPEAKER_00",
+      "text": "Dann sehe ich das aber auch nochmal problematisch, was die Durchführung angeht."
+    },
+    {
+      "start": 1415.0,
+      "end": 1419.0,
+      "speaker": "SPEAKER_00",
+      "text": "Aber ich würde jetzt erstmal mit…"
+    },
+    {
+      "start": 1419.0,
+      "end": 1420.0,
+      "speaker": "SPEAKER_00",
+      "text": "Komplexität."
+    },
+    {
+      "start": 1420.0,
+      "end": 1421.0,
+      "speaker": "SPEAKER_00",
+      "text": "Wie bitte?"
+    },
+    {
+      "start": 1421.0,
+      "end": 1423.0,
+      "speaker": "SPEAKER_02",
+      "text": "Das wäre dann die Komplexität."
+    },
+    {
+      "start": 1423.0,
+      "end": 1426.0,
+      "speaker": "SPEAKER_01",
+      "text": "Genau, wir sind jetzt bei Ressourcenintensität erstmal."
+    },
+    {
+      "start": 1426.0,
+      "end": 1431.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ja, genau, ich lasse mich gerne auf M ein."
+    },
+    {
+      "start": 1431.0,
+      "end": 1437.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, also Ressourcenintensität M mit zwei Punkten für diesen Angriff für einen staatlichen Aktör."
+    },
+    {
+      "start": 1437.0,
+      "end": 1443.0,
+      "speaker": "SPEAKER_01",
+      "text": "Erfahrungsgemäß schätze ich das auch so ein, wenn ich das vergleiche mit der DG bis aus den anderen Wargames."
+    },
+    {
+      "start": 1443.0,
+      "end": 1448.0,
+      "speaker": "SPEAKER_01",
+      "text": "Aber jetzt die Frage Komplexität. Muss ich viele Variablen koordinieren?"
+    },
+    {
+      "start": 1448.0,
+      "end": 1453.0,
+      "speaker": "SPEAKER_01",
+      "text": "Habe ich hier einen erhöhten Aufwand oder brauche ich da irgendwie besondere Skills, um diesen Angriff durchzuführen?"
+    },
+    {
+      "start": 1453.0,
+      "end": 1454.0,
+      "speaker": "SPEAKER_01",
+      "text": "Clara?"
+    },
+    {
+      "start": 1454.0,
+      "end": 1459.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ja, also ich würde schon sagen, dass er komplex ist."
+    },
+    {
+      "start": 1459.0,
+      "end": 1464.0,
+      "speaker": "SPEAKER_02",
+      "text": "Du musst in der Lage sein, eine Hauptbatterie mit den Materialien aufzubrechen."
+    },
+    {
+      "start": 1464.0,
+      "end": 1467.0,
+      "speaker": "SPEAKER_02",
+      "text": "Du darfst natürlich nicht vorher entdeckt werden."
+    },
+    {
+      "start": 1467.0,
+      "end": 1470.0,
+      "speaker": "SPEAKER_02",
+      "text": "Du musst den richtigen Zeitpunkt abpassen."
+    },
+    {
+      "start": 1470.0,
+      "end": 1473.0,
+      "speaker": "SPEAKER_02",
+      "text": "Das ist natürlich schon sehr komplex."
+    },
+    {
+      "start": 1473.0,
+      "end": 1476.0,
+      "speaker": "SPEAKER_02",
+      "text": "Das gebe ich schon zu."
+    },
+    {
+      "start": 1476.0,
+      "end": 1488.0,
+      "speaker": "SPEAKER_02",
+      "text": "Aber ich würde sagen, durch ein bisschen Übung vorab oder durch Internetrecherche, wie man sowas tut, denke ich, ist jeder dazu in der Lage, das durchzuführen."
+    },
+    {
+      "start": 1488.0,
+      "end": 1493.0,
+      "speaker": "SPEAKER_02",
+      "text": "Also so eine Wasserleitung zu kappen, sage ich jetzt einfach mal."
+    },
+    {
+      "start": 1493.0,
+      "end": 1495.0,
+      "speaker": "SPEAKER_02",
+      "text": "Aber es ist natürlich komplex."
+    },
+    {
+      "start": 1495.0,
+      "end": 1498.0,
+      "speaker": "SPEAKER_02",
+      "text": "Also auch hier sage ich definitiv kein S."
+    },
+    {
+      "start": 1498.0,
+      "end": 1502.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ja, bin gespannt, was die Verteidigung dazu sagt."
+    },
+    {
+      "start": 1502.0,
+      "end": 1509.0,
+      "speaker": "SPEAKER_00",
+      "text": "Ja, also ich sehe auch hier nochmal viele Variablen, die mit drin sind, die man nicht wirklich auch kontrollieren kann."
+    },
+    {
+      "start": 1509.0,
+      "end": 1513.0,
+      "speaker": "SPEAKER_00",
+      "text": "Ich meine, auf dem Weg dahin, man muss viel Werkzeug mitnehmen."
+    },
+    {
+      "start": 1513.0,
+      "end": 1517.0,
+      "speaker": "SPEAKER_00",
+      "text": "Das wird Fragen aufwerfen auf der Veranstaltung selber."
+    },
+    {
+      "start": 1517.0,
+      "end": 1531.0,
+      "speaker": "SPEAKER_00",
+      "text": "Dann muss man natürlich auch ungestört dort reinkommen, ungestört auch arbeiten können und am Ende auch das Ganze hinbekommen."
+    },
+    {
+      "start": 1531.0,
+      "end": 1538.0,
+      "speaker": "SPEAKER_00",
+      "text": "Ja, deswegen, ich bin da ehrlich gesagt auch nicht bei M, sondern bei L."
+    },
+    {
+      "start": 1538.0,
+      "end": 1540.0,
+      "speaker": "SPEAKER_01",
+      "text": "Bei L. Okay."
+    },
+    {
+      "start": 1540.0,
+      "end": 1548.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also für einen staatlichen Akteur zur richtigen Zeit eine Wasserleitung kaputt zu machen, seid ihr bei L bzw. M."
+    },
+    {
+      "start": 1548.0,
+      "end": 1560.0,
+      "speaker": "SPEAKER_01",
+      "text": "Wollen wir da, wenn ihr da nicht einig wird, dann dürft ihr beide mal würfeln und dann gucken wir mal, wer hier entscheidet."
+    },
+    {
+      "start": 1560.0,
+      "end": 1563.0,
+      "speaker": "SPEAKER_02",
+      "text": "Also ich bleibe bei M. Ich sage trotzdem möglich."
+    },
+    {
+      "start": 1563.0,
+      "end": 1565.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ja, dann würfeln wir es einfach aus."
+    },
+    {
+      "start": 1565.0,
+      "end": 1566.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ja, dann können wir gerne."
+    },
+    {
+      "start": 1566.0,
+      "end": 1568.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also Clara, würfel bitte zuerst."
+    },
+    {
+      "start": 1570.0,
+      "end": 1571.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ich habe eine 2 gewürfelt."
+    },
+    {
+      "start": 1571.0,
+      "end": 1573.0,
+      "speaker": "SPEAKER_01",
+      "text": "2, Antonio?"
+    },
+    {
+      "start": 1573.0,
+      "end": 1575.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ich habe eine 5 gewürfelt."
+    },
+    {
+      "start": 1575.0,
+      "end": 1579.0,
+      "speaker": "SPEAKER_01",
+      "text": "Eine 5, also Komplexität ist bei L, weil Antonio besser gewürfelt hat."
+    },
+    {
+      "start": 1579.0,
+      "end": 1585.0,
+      "speaker": "SPEAKER_01",
+      "text": "Das bedeutet, wir kommen zur nächsten Stufe, zur nächsten Dimension."
+    },
+    {
+      "start": 1585.0,
+      "end": 1587.0,
+      "speaker": "SPEAKER_01",
+      "text": "Verteidigung der BWI gegen so einen Angriff."
+    },
+    {
+      "start": 1587.0,
+      "end": 1594.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also was kann die BWI machen, wenn jemand versucht, ein Wasserrohr anzugreifen?"
+    },
+    {
+      "start": 1594.0,
+      "end": 1601.0,
+      "speaker": "SPEAKER_01",
+      "text": "Die Frage ist erst mal, ist das überhaupt eine BWI-Bliegenschaft, wo wir quasi diesen Wasserrohrangriff durchführen?"
+    },
+    {
+      "start": 1603.0,
+      "end": 1606.0,
+      "speaker": "SPEAKER_02",
+      "text": "Weit, ich weiß, also das ist ein BWI-Standort, genau."
+    },
+    {
+      "start": 1606.0,
+      "end": 1608.0,
+      "speaker": "SPEAKER_02",
+      "text": "Also davon gehe ich aus."
+    },
+    {
+      "start": 1608.0,
+      "end": 1614.0,
+      "speaker": "SPEAKER_02",
+      "text": "Gut, muss halt dafür sorgen, dass die Pläne geheim sind des Austragungsortes."
+    },
+    {
+      "start": 1616.0,
+      "end": 1624.0,
+      "speaker": "SPEAKER_02",
+      "text": "Aber das sind ja, also ich würde, also prinzipiell würde ich sagen, dass die Verteidigung da schon eher schwach ist."
+    },
+    {
+      "start": 1624.0,
+      "end": 1630.0,
+      "speaker": "SPEAKER_02",
+      "text": "Also ich weiß nicht, wie geheim die Unterlagen sind von den Gebäuden der BWI."
+    },
+    {
+      "start": 1630.0,
+      "end": 1632.0,
+      "speaker": "SPEAKER_02",
+      "text": "Kann ich jetzt wenigstens sagen."
+    },
+    {
+      "start": 1632.0,
+      "end": 1636.0,
+      "speaker": "SPEAKER_02",
+      "text": "Also da bin ich auch bei Clara."
+    },
+    {
+      "start": 1636.0,
+      "end": 1642.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ich glaube auch, dass es BWI-seitig eine schwache Verteidigung ist."
+    },
+    {
+      "start": 1642.0,
+      "end": 1646.0,
+      "speaker": "SPEAKER_00",
+      "text": "Ja, also ich prüfe jetzt hier mal mit unserem Experten."
+    },
+    {
+      "start": 1646.0,
+      "end": 1653.0,
+      "speaker": "SPEAKER_00",
+      "text": "Der hat auch gerade gesagt, dass die Liegenschaften werden halt durch Rezeption quasi abgesichert."
+    },
+    {
+      "start": 1653.0,
+      "end": 1659.0,
+      "speaker": "SPEAKER_01",
+      "text": "Aber am Arbeitstag, wenn ich die BWI-Bliegenschaften sehe, ist es, dass die BWI-Bereiche,"
+    },
+    {
+      "start": 1659.0,
+      "end": 1667.0,
+      "speaker": "SPEAKER_01",
+      "text": "die Rezeption quasi abgesichert, aber am Arbeitstag, wenn wir einen Innen-Täter haben, kommen wir da schon rein, haben wir die Information."
+    },
+    {
+      "start": 1667.0,
+      "end": 1672.0,
+      "speaker": "SPEAKER_01",
+      "text": "Und da können auch Leute an der Rezeption vorbeigeschleust werden ohne große Überprüfung."
+    },
+    {
+      "start": 1672.0,
+      "end": 1678.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ich laufe da mit einer gelben Weste durchs Haus und das geht, ist schon nicht unwahrscheinlich."
+    },
+    {
+      "start": 1678.0,
+      "end": 1686.0,
+      "speaker": "SPEAKER_01",
+      "text": "Das heißt, wir haben, Verteidigungsmaßnahmen haben wir, aber die sind nicht wirklich effizient, um so etwas vorzubeugen."
+    },
+    {
+      "start": 1686.0,
+      "end": 1691.0,
+      "speaker": "SPEAKER_01",
+      "text": "Vielleicht muss eine Tür aufgebrochen werden, aber das ist ja auch kein Problem für staatliche Akteure."
+    },
+    {
+      "start": 1691.0,
+      "end": 1698.0,
+      "speaker": "SPEAKER_01",
+      "text": "Das heißt, Verteidigung tendiere ich abhängig von eurer Diskussion und dem Input von dem Experten Richtung M."
+    },
+    {
+      "start": 1698.0,
+      "end": 1702.0,
+      "speaker": "SPEAKER_01",
+      "text": "Wenn es da keine Einwände gibt, dann schreibe ich jetzt hier M auf."
+    },
+    {
+      "start": 1702.0,
+      "end": 1704.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ja, passt."
+    },
+    {
+      "start": 1704.0,
+      "end": 1707.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, dann bleiben wir bei M."
+    },
+    {
+      "start": 1707.0,
+      "end": 1710.0,
+      "speaker": "SPEAKER_01",
+      "text": "Hört ihr eigentlich im Hintergrund die Stimme?"
+    },
+    {
+      "start": 1710.0,
+      "end": 1711.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ja."
+    },
+    {
+      "start": 1711.0,
+      "end": 1715.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, das ist ja schwer, sich zu konzentrieren."
+    },
+    {
+      "start": 1715.0,
+      "end": 1721.0,
+      "speaker": "SPEAKER_01",
+      "text": "So, das heißt, dann gehen wir zum letzten Dimension, Angriffzeitfenster."
+    },
+    {
+      "start": 1721.0,
+      "end": 1734.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ab dem Zeitpunkt, wo der Angriff startet, bedeutet, Leute drehen auf den Standort vor,"
+    },
+    {
+      "start": 1734.0,
+      "end": 1742.0,
+      "speaker": "SPEAKER_01",
+      "text": "werden eingeschleust mit ihren schönen gelben Westen und brechen dann vielleicht eine Tür auf, finden die Wasserleitung und machen die kaputt."
+    },
+    {
+      "start": 1742.0,
+      "end": 1747.0,
+      "speaker": "SPEAKER_01",
+      "text": "Wie viel Zeit geht da ins Land? Sind wir bei Minuten, sind wir bei Stunden, sind wir bei Tagen?"
+    },
+    {
+      "start": 1747.0,
+      "end": 1752.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ich würde sagen, ein paar Stunden."
+    },
+    {
+      "start": 1752.0,
+      "end": 1760.0,
+      "speaker": "SPEAKER_02",
+      "text": "Also, am Montag morgens rein und dann ein, zwei, also vielleicht eine halbe Stunde, eine Stunde, bis das Wasserrohr gefunden ist,"
+    },
+    {
+      "start": 1760.0,
+      "end": 1764.0,
+      "speaker": "SPEAKER_02",
+      "text": "also getappt ist, dann ist das recht schnell, das Wasser fließt da recht schnell."
+    },
+    {
+      "start": 1764.0,
+      "end": 1768.0,
+      "speaker": "SPEAKER_02",
+      "text": "Also, ich würde sagen, nicht länger als eineinhalb Stunden, da bin ich mir sicher."
+    },
+    {
+      "start": 1768.0,
+      "end": 1769.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1769.0,
+      "end": 1777.0,
+      "speaker": "SPEAKER_00",
+      "text": "Ja, da lasse ich mich gerne drauf ein. Also, ich würde auch eher zu Stunden tendieren."
+    },
+    {
+      "start": 1777.0,
+      "end": 1789.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, dann bleiben wir hier bei S. Das bedeutet, S war ja Stunden, es sei denn, es gibt da noch irgendwelche Einwände aus der Gruppe."
+    },
+    {
+      "start": 1789.0,
+      "end": 1800.0,
+      "speaker": "SPEAKER_01",
+      "text": "Und wenn nicht, dann summiere ich jetzt mal zusammen. Wir hatten hier Ressourcenintensität bei M, Komplexität bei L, Verteidigung bei M, Angriffsteilfenster bei S."
+    },
+    {
+      "start": 1800.0,
+      "end": 1809.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also, wir sind auch hier wieder bei Acht. Clara, willst du bitte mit drei Würfeln würfeln, ob du den Angriff erfolgreich durchbringst?"
+    },
+    {
+      "start": 1809.0,
+      "end": 1814.0,
+      "speaker": "SPEAKER_01",
+      "text": "Jawoll, ich würfel. Ich habe eine Sechs gewürfelt."
+    },
+    {
+      "start": 1814.0,
+      "end": 1820.0,
+      "speaker": "SPEAKER_01",
+      "text": "Du hast eine Sechs gewürfelt. Das ist schade. Der Angriffswurf ist nicht erfolgreich."
+    },
+    {
+      "start": 1820.0,
+      "end": 1830.0,
+      "speaker": "SPEAKER_01",
+      "text": "Das führt zu einem Teilerfolg. Also, mit einer Sechs bekommst du die Leute rein."
+    },
+    {
+      "start": 1830.0,
+      "end": 1840.0,
+      "speaker": "SPEAKER_01",
+      "text": "Die machen was an der Pipeline, Wasser fällt aus, aber in kürzester Zeit erkennt ein Rezeptionsmitarbeiter,"
+    },
+    {
+      "start": 1840.0,
+      "end": 1848.0,
+      "speaker": "SPEAKER_01",
+      "text": "der durch die Gegend grad läuft, als er prüft, dass hier irgendwas nicht stimmt und dreht davor die Hauptwasserrohre zu."
+    },
+    {
+      "start": 1848.0,
+      "end": 1860.0,
+      "speaker": "SPEAKER_01",
+      "text": "Das heißt, ihr habt einen kurzen Wasserausbruch und er merkt, dass da Leute am Standort sind, die nicht sein sollten und meldet das."
+    },
+    {
+      "start": 1860.0,
+      "end": 1866.0,
+      "speaker": "SPEAKER_01",
+      "text": "Die Frage ist, was bedeutet das dann fürs Hackathon? Wenn man weiß, da waren ein paar Leute, die was sabotiert haben."
+    },
+    {
+      "start": 1866.0,
+      "end": 1872.0,
+      "speaker": "SPEAKER_01",
+      "text": "Wird er noch weiter normal durchgeführt oder was geschieht jetzt?"
+    },
+    {
+      "start": 1872.0,
+      "end": 1882.0,
+      "speaker": "SPEAKER_02",
+      "text": "Dadurch, dass da eh schon nur weniger Teilnehmer als Besucher sind, weil ja ein gewisser Anteil an verschiedene Orte greift und vielleicht reisen sie später nach."
+    },
+    {
+      "start": 1882.0,
+      "end": 1888.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ich glaube nicht, dass er komplett ausfällt, aber ich glaube, es hat einen Stämmer bekommen."
+    },
+    {
+      "start": 1888.0,
+      "end": 1898.0,
+      "speaker": "SPEAKER_02",
+      "text": "Das Organisierungs-Team hat einen gewissen geschäftigen Ruf. Man weiß, man wollte sabotieren, das ist natürlich verunruhigend."
+    },
+    {
+      "start": 1898.0,
+      "end": 1904.0,
+      "speaker": "SPEAKER_02",
+      "text": "Vielleicht manche auch verängstigt und denken sich, um den nächsten komme ich eher nicht. Das ist nicht so ungewiss hier."
+    },
+    {
+      "start": 1904.0,
+      "end": 1912.0,
+      "speaker": "SPEAKER_02",
+      "text": "Es ist glaube ich kein Totalausfall. Also nicht höchstkritisch oder sehr kritisch, aber auch nicht wirklich gut."
+    },
+    {
+      "start": 1912.0,
+      "end": 1916.0,
+      "speaker": "SPEAKER_01",
+      "text": "Also die Qualität ist dann nicht erheblich beeinträchtigt."
+    },
+    {
+      "start": 1916.0,
+      "end": 1920.0,
+      "speaker": "SPEAKER_01",
+      "text": "Antonio, siehst du das auch so?"
+    },
+    {
+      "start": 1920.0,
+      "end": 1922.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ich sehe das genauso."
+    },
+    {
+      "start": 1922.0,
+      "end": 1926.0,
+      "speaker": "SPEAKER_01",
+      "text": "Dann fasse ich mal kurz zusammen. Wir hatten jetzt zwei Angriffe gestartet."
+    },
+    {
+      "start": 1926.0,
+      "end": 1934.0,
+      "speaker": "SPEAKER_01",
+      "text": "Einmal gegen den Standort, also mit falschen Informationen, fake news gegen den Standort von Klara."
+    },
+    {
+      "start": 1934.0,
+      "end": 1943.0,
+      "speaker": "SPEAKER_01",
+      "text": "Und einmal der Angriff in der zweiten Phase gegen das Wasser, die unterschiedliche Erfolge erzielt haben."
+    },
+    {
+      "start": 1943.0,
+      "end": 1952.0,
+      "speaker": "SPEAKER_01",
+      "text": "Gut, das bedeutet, wir haben jetzt unsere zwei Runden abgeschlossen."
+    },
+    {
+      "start": 1952.0,
+      "end": 1957.0,
+      "speaker": "SPEAKER_01",
+      "text": "Rot hat die Angriffe gestartet, blau hat die verteidigt. Wir haben Argumente ausgetauscht."
+    },
+    {
+      "start": 1957.0,
+      "end": 1965.0,
+      "speaker": "SPEAKER_01",
+      "text": "Dann bleibt mir nur noch zu sagen, vielen Dank, gute Heimreise und auf Wiedersehen."
+    },
+    {
+      "start": 1965.0,
+      "end": 1967.0,
+      "speaker": "SPEAKER_01",
+      "text": "Vielen Dank, Jonah. Auf Wiedersehen."
+    },
+    {
+      "start": 1967.0,
+      "end": 1969.0,
+      "speaker": "SPEAKER_01",
+      "text": "Dankeschön."
+    }
+  ]
+}

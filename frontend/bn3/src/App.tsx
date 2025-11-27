@@ -71,7 +71,8 @@ export default function WhisperTranscriptionApp() {
       }
 
       const data = await response.json();
-      setTranscription(data.text || data.transcription || '');
+      console.log(JSON.stringify(data))
+      //setTranscription(data.text || data.transcription || '');
       setSuccess(true);
     } catch (e) {
       setError(`Fehler beim Hochladen: ${(e as Error).message}`);
